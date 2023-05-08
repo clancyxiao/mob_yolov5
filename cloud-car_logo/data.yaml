@@ -1,0 +1,6 @@
+train: ../cloud-car_logo/train/images
+val: ../cloud-car_logo/valid/images
+test: ../cloud-car_logo/test/images
+
+nc: 5
+names: ['Benz', 'Ferrari', 'Lamborghini', 'Lexus', 'Porsche']
